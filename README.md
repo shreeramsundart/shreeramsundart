@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Shree Ram Sundar
 
-AI & DS Engineering Student
+AI & DS Engineering 
 College Student @ Sri Eshwar College of Engineering Coimbatore
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://shreeramsundarportfolio.netlify.app/)                                                 
@@ -13,9 +13,10 @@ College Student @ Sri Eshwar College of Engineering Coimbatore
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
-
-##Leetcode Stats
+---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shreeram-2706?theme=dark&font=Outfit&ext=contest)
+
+### Leetcode Stats
 ---
 ##Github Activity Stats
 [![Shree Ram Sundar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeramsundart&bg_color=000000&color=62fe7c&line=299721&point=cae8cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
